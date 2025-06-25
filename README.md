@@ -16,6 +16,8 @@ https://github.com/google-ai-edge/mediapipe
 
 Einen Kreis zum Malen per Circle TOS und einen um das Aussetzen des Trackings beim “Absetzen” durch den erhöhten Z-Index einfügen. Letzterer muss dann per Over auf das Endergebnis gelegt werden.
 
+![Code](https://github.com/user-attachments/assets/fcd4ea7b-b94c-4996-b31d-259cf9fcbdef)
+
 ### Grafik
 
 Über einen hochzählenden Timer vier Grafiken über einen Switch durchwechseln lassen. Darauf achten, dass die Grafiken über Zeit cross disolven. Nur mit dem Counter springen die Grafiken von einer zur nächsten. Die erste Grafik muss als fünfte Grafik nochmals eingefügt werden, da diese ansonsten nur die halbe Zeit gezeigt wird.
