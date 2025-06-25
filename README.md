@@ -16,7 +16,7 @@ https://github.com/google-ai-edge/mediapipe
 
 Einen Kreis zum Malen per Circle TOS und einen um das Aussetzen des Trackings beim “Absetzen” durch den erhöhten Z-Index einfügen. Letzterer muss dann per Over auf das Endergebnis gelegt werden.
 
-![Code](https://github.com/user-attachments/assets/fcd4ea7b-b94c-4996-b31d-259cf9fcbdef)
+
 
 ### Grafik
 
@@ -26,6 +26,7 @@ Danach den zuvor erstellten Circle als Maske per Composite über die Grafik lege
 
 Dann fehlt nur noch der Output und das Project muss über Perform geöffnet werden.
 
+![Code](https://github.com/user-attachments/assets/fcd4ea7b-b94c-4996-b31d-259cf9fcbdef)
 
 ## Komponentenplan
 ![KomponentenplanCT](https://github.com/user-attachments/assets/68ae3197-ee0d-4fad-b78d-42488fbc029e)
